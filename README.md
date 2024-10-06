@@ -124,5 +124,10 @@ She was the most light-minded girl I have ever met. – Она была само
 
 ![image](https://github.com/user-attachments/assets/595d6c7e-41e1-48fe-8884-8a4723867446)
 
+# Исключения степеней сравнения прилагательных :
+
+![image](https://github.com/user-attachments/assets/b16fc15b-f56a-4ba2-8238-edcbc9a4c824)
+
+
 
 
