@@ -120,4 +120,9 @@ She was the most light-minded girl I have ever met. – Она была само
 
 ![image](https://github.com/user-attachments/assets/f5023f3b-5a08-4ce6-8bf0-bbc9fe47f166)
 
+### Перевод:
+
+![image](https://github.com/user-attachments/assets/595d6c7e-41e1-48fe-8884-8a4723867446)
+
+
 
