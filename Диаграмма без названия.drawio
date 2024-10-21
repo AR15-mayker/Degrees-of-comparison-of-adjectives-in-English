@@ -1,9 +1,164 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Страница — 1" id="Np6cN7U7PfvKtsSIQ8Vt">
-    <mxGraphModel>
+    <mxGraphModel dx="3790" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-1" target="kjdEznvPiPyV5LJzzNtB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-1" value="начало" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-2" target="kjdEznvPiPyV5LJzzNtB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-2" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Установить дистанцию = начальная дистанция&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-4" target="kjdEznvPiPyV5LJzzNtB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-4" target="kjdEznvPiPyV5LJzzNtB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-4" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Блок принятия решения &quot;Дистанция достигла 10 км?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="337" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-6" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;Конец&quot;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="347" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-8" target="kjdEznvPiPyV5LJzzNtB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-8" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;Увеличить дистанцию на 1 км&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-10" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="347" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-11" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="445" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-12" target="kjdEznvPiPyV5LJzzNtB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-12" target="kjdEznvPiPyV5LJzzNtB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-12" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Чувствует ли атлет усталость?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="647" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="597" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-14" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Перерыв на полчаса&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="657" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-15" target="kjdEznvPiPyV5LJzzNtB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-15" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Увеличение дистанции&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="837" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-19" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;Конец&quot;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="837" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="20" width="140" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-24" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="655" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-25" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="745" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-27" value="первая задача&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-28" target="kjdEznvPiPyV5LJzzNtB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-28" value="начало" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-29" target="kjdEznvPiPyV5LJzzNtB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-29" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt; &quot;Выбрать деталь для проверки&quot;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-30" target="kjdEznvPiPyV5LJzzNtB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-30" target="kjdEznvPiPyV5LJzzNtB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-30" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt; &quot;Деталь неисправна?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="337" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110.00000000000045" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="280" />
+              <mxPoint x="111" y="280" />
+              <mxPoint x="111" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-31" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;Починить деталь&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="347" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-36" target="kjdEznvPiPyV5LJzzNtB-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-36" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;Следующая деталь&quot;.&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="kjdEznvPiPyV5LJzzNtB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185.00000000000045" y="660" as="sourcePoint" />
+            <mxPoint x="207.50000000000045" y="247" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="458" y="660" />
+              <mxPoint x="458" y="247" />
+              <mxPoint x="170" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kjdEznvPiPyV5LJzzNtB-41" target="kjdEznvPiPyV5LJzzNtB-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-41" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;Есть еще детали?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="620" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-46" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="347" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-47" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="435" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-48" value="да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-50" value="конец" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-52" value="нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="738" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="400" y="17" width="140" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="kjdEznvPiPyV5LJzzNtB-54" value="вторая задача" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
